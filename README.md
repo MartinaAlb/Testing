@@ -1,5 +1,5 @@
 # Testing
-task for practice testing
+task for practice testing - unit tests, pytest
 
 
 only in czech, english is not available
